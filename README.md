@@ -41,3 +41,9 @@ https://www.kaggle.com/datasets/camnugent/sandp500
 4. Use the provided formulas and charts as templates to analyze other stocks or different time periods.
 
 ## File Structure
+
+- `/charts/`
+  - `multi_stock_closing_price.png`
+  - `aapl_price_vs_30d_ma.png`
+- `README.md`
+
